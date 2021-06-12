@@ -6,3 +6,6 @@ Turn on developer mode for your browser. Go to `chrome://extensions` in your add
 
 ## Screenshots
 ![Screenshot 1](screenshots/screenshot1.png)
+
+## More
+* If you like this theme, check out my matching theme for VSCode: [Zephyr Night for VSCode](https://github.com/kaischuygon/ZephyrNight_VSCode)
